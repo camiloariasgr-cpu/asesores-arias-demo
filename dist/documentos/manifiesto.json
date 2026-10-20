@@ -1,0 +1,314 @@
+{
+  "fictional": true,
+  "referenceDate": "2026-10-21",
+  "clients": [
+    {
+      "id": "c01",
+      "name": "Elena Montes"
+    },
+    {
+      "id": "c02",
+      "name": "Andrés Beltrán"
+    },
+    {
+      "id": "c03",
+      "name": "Clara Ríos"
+    },
+    {
+      "id": "c04",
+      "name": "Taller Norte Demo"
+    },
+    {
+      "id": "c05",
+      "name": "Julián Pardo"
+    },
+    {
+      "id": "c06",
+      "name": "Lucía Salcedo"
+    },
+    {
+      "id": "c07",
+      "name": "Estudio Roble Demo"
+    },
+    {
+      "id": "c08",
+      "name": "Mateo Cárdenas"
+    },
+    {
+      "id": "c09",
+      "name": "Sofía Leal"
+    },
+    {
+      "id": "c10",
+      "name": "Daniel Acosta"
+    },
+    {
+      "id": "c11",
+      "name": "Paula Herrera"
+    },
+    {
+      "id": "c12",
+      "name": "Felipe Duarte"
+    }
+  ],
+  "documents": [
+    {
+      "id": "d01",
+      "clientId": "c01",
+      "policyId": "p01",
+      "title": "Carátula · Automóvil",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p01.html",
+      "status": "Por revisar"
+    },
+    {
+      "id": "d02",
+      "clientId": "c02",
+      "policyId": "p02",
+      "title": "Carátula · Hogar",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p02.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d03",
+      "clientId": "c03",
+      "policyId": "p03",
+      "title": "Carátula · Vida",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p03.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d04",
+      "clientId": "c04",
+      "policyId": "p04",
+      "title": "Carátula · Empresarial",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p04.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d05",
+      "clientId": "c05",
+      "policyId": "p05",
+      "title": "Carátula · Salud y prepagada",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p05.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d06",
+      "clientId": "c06",
+      "policyId": "p06",
+      "title": "Carátula · Exequial",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p06.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d07",
+      "clientId": "c07",
+      "policyId": "p07",
+      "title": "Carátula · Empresarial",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p07.html",
+      "status": "Por revisar"
+    },
+    {
+      "id": "d08",
+      "clientId": "c08",
+      "policyId": "p08",
+      "title": "Carátula · Viajes",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p08.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d09",
+      "clientId": "c09",
+      "policyId": "p09",
+      "title": "Carátula · Laborales y colectivos",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p09.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d10",
+      "clientId": "c10",
+      "policyId": "p10",
+      "title": "Carátula · Automóvil",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p10.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d11",
+      "clientId": "c11",
+      "policyId": "p11",
+      "title": "Carátula · Vida",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p11.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d12",
+      "clientId": "c12",
+      "policyId": "p12",
+      "title": "Carátula · Hogar",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p12.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d13",
+      "clientId": "c01",
+      "policyId": "p13",
+      "title": "Carátula · Vida",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p13.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d14",
+      "clientId": "c02",
+      "policyId": "p14",
+      "title": "Carátula · Hogar",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p14.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d15",
+      "clientId": "c03",
+      "policyId": "p15",
+      "title": "Carátula · Salud y prepagada",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p15.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d16",
+      "clientId": "c04",
+      "policyId": "p16",
+      "title": "Carátula · Viajes",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p16.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d17",
+      "clientId": "c05",
+      "policyId": "p17",
+      "title": "Carátula · Exequial",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p17.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "d18",
+      "clientId": "c06",
+      "policyId": "p18",
+      "title": "Carátula · Laborales y colectivos",
+      "type": "Carátula de muestra",
+      "date": "2026-10-15",
+      "source": "Carpeta del cliente",
+      "file": "documentos/p18.html",
+      "status": "Revisado"
+    },
+    {
+      "id": "s1",
+      "clientId": "c01",
+      "title": "Ficha del vehículo",
+      "type": "Soporte de muestra",
+      "date": "2026-10-16",
+      "source": "Carpeta del cliente",
+      "file": "documentos/soporte-c01.html",
+      "status": "Disponible"
+    },
+    {
+      "id": "s2",
+      "clientId": "c02",
+      "title": "Ficha del cliente",
+      "type": "Soporte de muestra",
+      "date": "2026-10-16",
+      "source": "Carpeta del cliente",
+      "file": "documentos/soporte-c02.html",
+      "status": "Disponible"
+    },
+    {
+      "id": "s3",
+      "clientId": "c03",
+      "title": "Ficha del cliente",
+      "type": "Soporte de muestra",
+      "date": "2026-10-16",
+      "source": "Carpeta del cliente",
+      "file": "documentos/soporte-c03.html",
+      "status": "Disponible"
+    },
+    {
+      "id": "s4",
+      "clientId": "c04",
+      "title": "Ficha del cliente",
+      "type": "Soporte de muestra",
+      "date": "2026-10-16",
+      "source": "Carpeta del cliente",
+      "file": "documentos/soporte-c04.html",
+      "status": "Disponible"
+    },
+    {
+      "id": "s5",
+      "clientId": "c05",
+      "title": "Ficha del cliente",
+      "type": "Soporte de muestra",
+      "date": "2026-10-16",
+      "source": "Carpeta del cliente",
+      "file": "documentos/soporte-c05.html",
+      "status": "Disponible"
+    },
+    {
+      "id": "s6",
+      "clientId": "c06",
+      "title": "Ficha del cliente",
+      "type": "Soporte de muestra",
+      "date": "2026-10-16",
+      "source": "Carpeta del cliente",
+      "file": "documentos/soporte-c06.html",
+      "status": "Disponible"
+    }
+  ]
+}
