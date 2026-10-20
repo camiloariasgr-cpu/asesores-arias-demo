@@ -30,13 +30,16 @@ En Mac también se puede ejecutar `Iniciar-demo.command`. Mantener la terminal a
 6. Preparar mensaje, editar, **Guardar borrador** o **Registrar envío simulado**. Son acciones distintas. No sale ningún mensaje.
 7. Volver al caso y explorar el historial. Opcionalmente registrar decisión y nueva vigencia de muestra.
 8. Crear una solicitud ficticia en **Nuevos negocios** y abrir su seguimiento.
-9. Revisar **Conexiones futuras** y registrar observaciones en **Reunión familiar**.
+9. En **Explorar perfiles**, abrir cliente → Cuotas y avisos → registrar aviso ficticio. Volver como administrador a **Recaudo**, revisar y confirmar un abono con referencia DEMO-…; el aviso solo no reduce el saldo.
+10. En **Pólizas**, probar filtros y abrir la ficha: ocho formularios según ramo; edición y cancelación conservan historia.
+11. En **Nuevos negocios**, cambiar etapa, importe anual estimado y siguiente contacto. Un caso permite guardar gestión y recordatorio a 7/15/30 días.
+12. Revisar **Conexiones futuras** y registrar observaciones en **Reunión familiar**.
 
 La sección de reunión incluye doce preguntas para Víctor y una explicación de lo funcional, simulado y pendiente. No se asignan responsabilidades a miembros de la familia.
 
 ## Vista comercial conservada del sitio inicial
 
-Abrir **http://127.0.0.1:4173/#sitio** o «Vista comercial» desde la aplicación. Incluye portada, ocho páginas de seguros, agencia, seis artículos completos conservados del sitio de referencia, Nora y una vista ficticia del portal de Elena. Las fotos originales se sirven localmente; su procedencia se conserva en metadatos y se acredita en el pie.
+Abrir **http://127.0.0.1:4173/#sitio** o «Vista comercial» desde la aplicación. Incluye portada, ocho páginas de seguros, agencia, seis artículos completos conservados del sitio de referencia, Nora y un portal ficticio con selector de clientes, pólizas, cuotas, avisos y solicitudes. Las fotos originales se sirven localmente; su procedencia se conserva en metadatos y se acredita en el pie.
 
 Nora prepara un lead ficticio y lo conecta a «Nuevos negocios». El formulario exige correos de muestra bajo `example.com`. Los contactos de la agencia se presentan como contenido de referencia; los botones no abren correo ni WhatsApp reales. Los textos de producto se adaptaron para distinguir coberturas posibles de condiciones universales. Las cifras y los precios del prototipo están marcados como pendientes de confirmar. Los seis artículos se conservaron como contenido editorial pendiente de revisión.
 
@@ -68,3 +71,7 @@ Interfaz: HTML/CSS y módulos JavaScript sin dependencias de runtime. Tipografí
 La publicación de demostración usa GitHub Pages y la rama `gh-pages`; `main` conserva el código del proyecto. `.openai/`, `.local/`, `.agents/` y las credenciales no forman parte de la carga a GitHub.
 
 Para actualizar el demo se valida el código de `main` y se publica el contenido exacto de `dist/` en la raíz de `gh-pages`, conservando `.nojekyll`. No se necesita compilación. GitHub Pages sirve archivos estáticos; Neon requeriría un backend y autenticación para sincronizar registros entre usuarios.
+
+## Ampliación operativa · 20 octubre 2026
+
+La cartera clasifica cada vigencia con la misma regla en mesa y portal: programada, vigente, por renovar, vencida, cancelada o anterior. Los planes permiten 1/2/4/6/12 cuotas mensuales, suman exactamente la prima anual en COP y conservan confirmaciones e historial. Registrar abonos ficticios no altera cobertura. Las solicitudes del portal abren casos de servicio que se pueden responder y completar. El selector de perfiles solo permite explorar la muestra: no es un control de acceso.

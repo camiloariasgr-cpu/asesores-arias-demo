@@ -4,6 +4,8 @@
 
 - `dist/data.js`: muestra sintética reproducible, catálogo y reglas ilustrativas de las entidades A/B/C.
 - `dist/domain.js`: validación, solicitudes idempotentes, estados de respuesta, comparación, mensajes, leads y eventos. Es independiente de la interfaz y se prueba con Node.
+- `dist/operations.js`: ampliación aditiva del estado, clasificación de vigencias, fichas por ramo, etapas de leads, gestiones/recordatorios, planes/cuotas, abonos y solicitudes de servicio.
+- `dist/operations-ui.js` y `operations.css`: vistas de cartera, ficha, agenda, recaudo y portal enlazadas al mismo estado local.
 - `dist/app.js`: vistas, navegación, formularios y persistencia local del ejercicio.
 - `dist/documentos/`: archivos fuente sintéticos. Los documentos generados durante el recorrido toman los datos del caso.
 - `localStorage`: guardado por navegador/origen; exportación JSON; restablecimiento.
@@ -24,6 +26,9 @@ El código y la publicación de demostración están en GitHub/GitHub Pages. No 
 | Comunicación | Caso/cliente, dirección, canal, destinatario, cuerpo, fecha y estado explícitamente simulado. |
 | Evento | Caso/cliente, fecha del escenario, título, detalle y actor genérico. No es una auditoría inmutable de producción. |
 | Lead | Contacto, producto, origen, necesidad y vínculo al caso. |
+| Plan/cuota/abono | Póliza y cliente, distribución exacta COP, vencimiento, referencia DEMO única e importe confirmado. |
+| Solicitud de servicio | Cliente, póliza, caso, origen portal, tipo, descripción, aviso de cuota opcional y respuesta de muestra. |
+| Gestión/recordatorio | Caso, tipo, nota, próxima acción, vencimiento y estado; reprogramar conserva la historia. |
 | Observación/entrevista | Notas sobre el proceso y supuestos para validar, sin asignaciones familiares. |
 
 ## Contrato de integración futuro
