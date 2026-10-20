@@ -1,9 +1,0 @@
-.DS_Store
-node_modules/
-.impeccable/cache/
-.local/
-*.zip
-
-.agents/
-
-.impeccable/review/*.jpg
