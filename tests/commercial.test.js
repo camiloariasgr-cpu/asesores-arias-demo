@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {commercialRoute} from '../dist/commercial.js';
+import {catalog} from '../dist/commercial-data.js';
+import {articles} from '../dist/articles-data.js';
+import {seedData} from '../dist/data.js';
+const h={state:seedData(),e:s=>String(s??''),icon:()=>'',button:t=>`<button type="button">${t}</button>`,link:(t,href)=>`<a href="#${href}">${t}</a>`,money:n=>String(n),date:s=>s,docRows:()=>''};
+test('Las ocho líneas conservan rutas, precios de referencia y condiciones revisables',()=>{assert.equal(catalog.length,8);for(const p of catalog){const {html}=commercialRoute(['sitio','seguro',p.slug],new URLSearchParams(),h);assert.ok(html.includes(p.title));assert.ok(html.includes(p.headline));assert.match(html,/Referencia del prototipo/);assert.match(html,/Preguntas frecuentes/);assert.ok(html.includes('producto='+p.slug));assert.ok(p.cover.length>=4);}});
+test('Los seis artículos fuente se pueden abrir sin salir del demo local',()=>{assert.equal(articles.length,6);for(let i=0;i<articles.length;i++){const {html}=commercialRoute(['sitio','articulo',String(i)],new URLSearchParams(),h);assert.ok(html.includes(articles[i].title));assert.match(html,/pendiente de revisión/);assert.ok(articles[i].blocks.length>5);assert.ok(!html.includes('href="mailto:'));assert.ok(!html.includes('href="https://wa.me'));}});
+test('Nora y portal muestran la naturaleza ficticia y se conectan al mismo modelo',()=>{const {html:nora}=commercialRoute(['sitio','nora'],new URLSearchParams('producto=auto'),h);assert.match(nora,/id="commercial-lead"/);assert.match(nora,/value="Automóvil" selected/);assert.match(nora,/datos ficticios/);const {html:portal}=commercialRoute(['sitio','portal'],new URLSearchParams(),h);assert.match(portal,/Elena Montes/);assert.match(portal,/DEMO-POL-001/);assert.match(portal,/No hay autenticación/);});
