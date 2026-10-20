@@ -8,7 +8,7 @@
 - `dist/documentos/`: archivos fuente sintéticos. Los documentos generados durante el recorrido toman los datos del caso.
 - `localStorage`: guardado por navegador/origen; exportación JSON; restablecimiento.
 
-No hay backend remoto, cuenta Supabase/Neon conectada, repositorio GitHub remoto ni cotizador real. La capa de persistencia de esta versión es deliberadamente local y sustituible. Los adaptadores de seguros son funciones de simulación.
+El código y la publicación de demostración están en GitHub/GitHub Pages. No hay backend remoto, cuenta Supabase/Neon conectada ni cotizador real. La capa de persistencia de esta versión es deliberadamente local y sustituible. Los adaptadores de seguros son funciones de simulación.
 
 ## Modelo de registro
 
