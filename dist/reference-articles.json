@@ -1,0 +1,426 @@
+[
+  {
+    "href": "/blog/cuanto-vale-realmente-un-seguro-de-vida",
+    "title": "Cuánto capital de vida necesitas (y por qué casi nadie lo calcula bien)",
+    "blocks": [
+      {
+        "tag": "p",
+        "text": "La mayoría compra el capital que le ofrecen, no el que su familia necesita. Esta es la cuenta de servilleta que uso con cada cliente."
+      },
+      {
+        "tag": "p",
+        "text": "Víctor Arias · 17 de agosto de 2026 · 6 min"
+      },
+      {
+        "tag": "p",
+        "text": "Cuando alguien me pregunta por un seguro de vida, la conversación casi siempre empieza al revés: por la prima. \"¿Cuánto me cuesta?\" Y la pregunta correcta es otra: ¿cuánto necesita tu familia para no cambiar de vida si tú faltas?"
+      },
+      {
+        "tag": "h2",
+        "text": "La cuenta de servilleta"
+      },
+      {
+        "tag": "p",
+        "text": "Tres números y una resta:"
+      },
+      {
+        "tag": "li",
+        "text": "Deudas. Hipoteca, vehículo, tarjetas. Todo lo que quedaría a nombre de alguien más."
+      },
+      {
+        "tag": "li",
+        "text": "Sostenimiento. Los gastos mensuales del hogar multiplicados por los años que tu familia necesitaría para reacomodarse. Cinco años es un piso razonable; si hay hijos pequeños, calcula hasta que el menor termine el colegio."
+      },
+      {
+        "tag": "li",
+        "text": "Proyectos comprometidos. Universidad, un negocio en marcha, el cuidado de un familiar."
+      },
+      {
+        "tag": "p",
+        "text": "Suma esos tres y réstale lo que ya existe: cesantías, ahorros líquidos, la póliza que te da la empresa."
+      },
+      {
+        "tag": "h2",
+        "text": "Lo que sobra de esa resta es tu capital"
+      },
+      {
+        "tag": "p",
+        "text": "Un ejemplo real, con números redondeados: hipoteca de $180 millones, gastos de $6 millones al mes por 7 años ($504 millones), universidad de dos hijos ($200 millones). Total: $884 millones. Menos $84 millones entre ahorros y cesantías. Capital: $800 millones."
+      },
+      {
+        "tag": "p",
+        "text": "Suena enorme hasta que ves la prima. A los 38 años, sin fumar, ese capital cuesta menos que el plan de datos de la familia."
+      },
+      {
+        "tag": "h2",
+        "text": "Tres errores que veo cada semana"
+      },
+      {
+        "tag": "li",
+        "text": "Confiar solo en la póliza de la empresa. Se acaba el día que se acaba el contrato, justo cuando más pesa."
+      },
+      {
+        "tag": "li",
+        "text": "No actualizar beneficiarios. Un divorcio o un nacimiento sin actualizar la designación termina en un lío sucesoral."
+      },
+      {
+        "tag": "li",
+        "text": "No declarar condiciones de salud. La aseguradora las encuentra en el siniestro, y ahí sí objeta."
+      },
+      {
+        "tag": "p",
+        "text": "Si quieres correr tu propio número, el cotizador de la página te lo arma en dos minutos."
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://images.unsplash.com/photo-1713942590368-09cfc6ae94ce?auto=format&fit=crop&q=80&w=1800"
+      },
+      {
+        "alt": "Padres jugando con su hijo sobre la cama",
+        "src": "https://images.unsplash.com/photo-1713942590368-09cfc6ae94ce?auto=format&fit=crop&q=80&w=1400"
+      },
+      {
+        "alt": "Automóviles circulando por una avenida",
+        "src": "https://images.unsplash.com/photo-1415594445260-63e18261587e?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "alt": "Sala de un apartamento con ventanal de piso a techo",
+        "src": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&q=80&w=600"
+      }
+    ]
+  },
+  {
+    "href": "/blog/todo-riesgo-vs-solo-responsabilidad-civil",
+    "title": "Todo riesgo vs. solo responsabilidad civil: cuándo sí vale bajarse de la póliza completa",
+    "blocks": [
+      {
+        "tag": "p",
+        "text": "Hay carros que no justifican un todo riesgo. Hay bolsillos que no aguantan estar sin RC. La línea es más clara de lo que parece."
+      },
+      {
+        "tag": "p",
+        "text": "Víctor Arias · 3 de agosto de 2026 · 5 min"
+      },
+      {
+        "tag": "p",
+        "text": "El SOAT cubre lesiones. No cubre el carro que chocaste, ni el tuyo, ni la demanda del que iba adentro. Esa es toda la conversación."
+      },
+      {
+        "tag": "h2",
+        "text": "La regla del 10%"
+      },
+      {
+        "tag": "p",
+        "text": "Si la prima anual del todo riesgo supera el 10% del valor comercial del vehículo, vale la pena mirar alternativas. Un carro de $25 millones con prima de $3 millones está desbalanceado: probablemente te convenga una póliza de responsabilidad civil con límites altos más un fondo propio para daños menores."
+      },
+      {
+        "tag": "p",
+        "text": "Por encima de esos $40 o $50 millones de valor comercial, el todo riesgo casi siempre gana."
+      },
+      {
+        "tag": "h2",
+        "text": "Lo que nunca debes recortar"
+      },
+      {
+        "tag": "p",
+        "text": "La responsabilidad civil extracontractual. Es la cobertura más barata de la póliza y la única que puede evitar que un accidente se lleve tu casa. Los límites de 4.000 SMMLV cuestan una diferencia marginal frente a los de 1.000. Tómalos."
+      },
+      {
+        "tag": "h2",
+        "text": "Deducible: la palanca real"
+      },
+      {
+        "tag": "p",
+        "text": "Subir el deducible de pérdida parcial del 1% al 3% del valor asegurado baja la prima entre 12% y 20%. Tiene sentido si tienes con qué cubrir ese deducible sin endeudarte. Si no, no lo toques."
+      },
+      {
+        "tag": "h2",
+        "text": "El amparo patrimonial"
+      },
+      {
+        "tag": "p",
+        "text": "Cubre cuando el conductor no tenía licencia vigente o estaba en una infracción. No es un permiso para manejar mal: es lo que evita que la aseguradora objete por un detalle administrativo. Revisa que tu póliza lo tenga."
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://images.unsplash.com/photo-1415594445260-63e18261587e?auto=format&fit=crop&q=80&w=1800"
+      },
+      {
+        "alt": "Automóviles circulando por una avenida",
+        "src": "https://images.unsplash.com/photo-1415594445260-63e18261587e?auto=format&fit=crop&q=80&w=1400"
+      },
+      {
+        "alt": "Padres jugando con su hijo sobre la cama",
+        "src": "https://images.unsplash.com/photo-1713942590368-09cfc6ae94ce?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "alt": "Sala de un apartamento con ventanal de piso a techo",
+        "src": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&q=80&w=600"
+      }
+    ]
+  },
+  {
+    "href": "/blog/terremoto-en-bogota-lo-que-su-poliza-de-hogar-no-cubre",
+    "title": "Terremoto en Bogotá: lo que la póliza del edificio no te cubre",
+    "blocks": [
+      {
+        "tag": "p",
+        "text": "La copropiedad asegura áreas comunes. Lo que hay dentro de tu apartamento, incluida la remodelación, corre por tu cuenta."
+      },
+      {
+        "tag": "p",
+        "text": "Víctor Arias · 20 de julio de 2026 · 4 min"
+      },
+      {
+        "tag": "p",
+        "text": "Bogotá está en zona de amenaza sísmica intermedia. La póliza de la copropiedad —esa que pagas en la administración— asegura la estructura y las áreas comunes. No asegura tus contenidos, ni las mejoras que le hiciste al apartamento."
+      },
+      {
+        "tag": "h2",
+        "text": "Qué queda por fuera"
+      },
+      {
+        "tag": "li",
+        "text": "Muebles, electrodomésticos, ropa, equipos de cómputo."
+      },
+      {
+        "tag": "li",
+        "text": "La cocina integral que instalaste, los pisos que cambiaste, los closets a la medida."
+      },
+      {
+        "tag": "li",
+        "text": "Responsabilidad civil por daños que se originen en tu unidad y afecten al vecino."
+      },
+      {
+        "tag": "h2",
+        "text": "Cómo se dimensiona bien"
+      },
+      {
+        "tag": "p",
+        "text": "Camina tu casa con el celular grabando y ve nombrando lo que ves. Ese video es dos cosas: la base para calcular el valor asegurado y la prueba de preexistencia el día del siniestro. Guárdalo fuera de la casa (nube)."
+      },
+      {
+        "tag": "p",
+        "text": "Para la mayoría de hogares de clase media en Bogotá el contenido está entre $40 y $90 millones. Casi siempre lo subestiman a la mitad."
+      },
+      {
+        "tag": "h2",
+        "text": "El deducible sísmico"
+      },
+      {
+        "tag": "p",
+        "text": "En terremoto el deducible se pacta como porcentaje del valor asegurado, no del siniestro. Un 2% sobre $600 millones son $12 millones que salen de tu bolsillo antes de que la aseguradora ponga el primer peso. Es negociable, y hay que negociarlo antes, no después."
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&q=80&w=1800"
+      },
+      {
+        "alt": "Sala de un apartamento con ventanal de piso a techo",
+        "src": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&q=80&w=1400"
+      },
+      {
+        "alt": "Padres jugando con su hijo sobre la cama",
+        "src": "https://images.unsplash.com/photo-1713942590368-09cfc6ae94ce?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "alt": "Automóviles circulando por una avenida",
+        "src": "https://images.unsplash.com/photo-1415594445260-63e18261587e?auto=format&fit=crop&q=80&w=600"
+      }
+    ]
+  },
+  {
+    "href": "/blog/medicina-prepagada-carencias",
+    "title": "Carencias en medicina prepagada: el calendario que nadie te explica",
+    "blocks": [
+      {
+        "tag": "p",
+        "text": "Firmar hoy no es estar cubierto hoy. Este es el mapa de tiempos por servicio para que no te agarre en curva."
+      },
+      {
+        "tag": "p",
+        "text": "Víctor Arias · 29 de junio de 2026 · 5 min"
+      },
+      {
+        "tag": "p",
+        "text": "La carencia es el tiempo entre que empiezas a pagar y que puedes usar un servicio. Existe para que la gente no compre el plan camino al quirófano. Es legítima, pero hay que conocerla."
+      },
+      {
+        "tag": "h2",
+        "text": "Tiempos típicos"
+      },
+      {
+        "tag": "h2",
+        "text": "Portabilidad: la palabra clave"
+      },
+      {
+        "tag": "p",
+        "text": "Si vienes de otro plan de prepagada, muchas compañías homologan el tiempo ya cumplido. No lo ofrecen: hay que pedirlo y soportarlo con el certificado de afiliación anterior. Puede ahorrarte diez meses de espera."
+      },
+      {
+        "tag": "h2",
+        "text": "Preexistencias"
+      },
+      {
+        "tag": "p",
+        "text": "Declararlas no siempre implica que te nieguen el plan. Muchas veces se acepta con exclusión de esa patología específica, y el resto queda cubierto. Ocultarlas sí garantiza una objeción en el momento de la reclamación."
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://images.unsplash.com/photo-1758691461935-202e2ef6b69f?auto=format&fit=crop&q=80&w=1800"
+      },
+      {
+        "alt": "Médico atendiendo a un paciente en su consultorio",
+        "src": "https://images.unsplash.com/photo-1758691461935-202e2ef6b69f?auto=format&fit=crop&q=80&w=1400"
+      }
+    ]
+  },
+  {
+    "href": "/blog/arl-contratistas-prestacion-de-servicios",
+    "title": "Contratistas por prestación de servicios: quién paga la ARL y qué pasa si nadie la paga",
+    "blocks": [
+      {
+        "tag": "p",
+        "text": "Es la duda más frecuente de las pymes que nos escriben. La respuesta depende del nivel de riesgo, y la sanción no es menor."
+      },
+      {
+        "tag": "p",
+        "text": "Víctor Arias · 8 de junio de 2026 · 4 min"
+      },
+      {
+        "tag": "p",
+        "text": "Todo contratista con contrato de prestación de servicios superior a un mes debe estar afiliado a riesgos laborales. La pregunta es quién paga."
+      },
+      {
+        "tag": "h2",
+        "text": "La regla"
+      },
+      {
+        "tag": "li",
+        "text": "Riesgo I, II y III: paga el contratista, sobre el 40% del valor del contrato."
+      },
+      {
+        "tag": "li",
+        "text": "Riesgo IV y V: paga el contratante. Alturas, obra civil, manejo de energía."
+      },
+      {
+        "tag": "h2",
+        "text": "Qué pasa si no se afilia"
+      },
+      {
+        "tag": "p",
+        "text": "Si el contratista se accidenta sin ARL, el contratante responde directamente por las prestaciones asistenciales y económicas. Es decir: la empresa paga la incapacidad, el tratamiento y, en el peor caso, la pensión de invalidez. Además de la sanción del Ministerio de Trabajo."
+      },
+      {
+        "tag": "h2",
+        "text": "Lo que hacemos nosotros"
+      },
+      {
+        "tag": "p",
+        "text": "Gestionamos la afiliación, el reporte de novedades mes a mes y el certificado que la empresa necesita para el pago de la cuenta de cobro. Sin que nadie del equipo tenga que entrar al portal."
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://images.unsplash.com/photo-1673978483693-9e4be55b2a35?auto=format&fit=crop&q=80&w=1800"
+      },
+      {
+        "alt": "Trabajador con casco de seguridad manipulando madera",
+        "src": "https://images.unsplash.com/photo-1673978483693-9e4be55b2a35?auto=format&fit=crop&q=80&w=1400"
+      },
+      {
+        "alt": "Padres jugando con su hijo sobre la cama",
+        "src": "https://images.unsplash.com/photo-1713942590368-09cfc6ae94ce?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "alt": "Automóviles circulando por una avenida",
+        "src": "https://images.unsplash.com/photo-1415594445260-63e18261587e?auto=format&fit=crop&q=80&w=600"
+      }
+    ]
+  },
+  {
+    "href": "/blog/seguro-de-viaje-schengen",
+    "title": "Seguro de viaje para visa Schengen: los mínimos exactos que piden",
+    "blocks": [
+      {
+        "tag": "p",
+        "text": "30.000 euros, repatriación y cobertura en todo el espacio Schengen. Lo demás es opcional, pero hay dos cosas que sí vale pagar."
+      },
+      {
+        "tag": "p",
+        "text": "Víctor Arias · 18 de mayo de 2026 · 4 min"
+      },
+      {
+        "tag": "p",
+        "text": "El consulado no pide un seguro cualquiera. Pide uno que cumpla tres condiciones y las verifica en el certificado."
+      },
+      {
+        "tag": "h2",
+        "text": "Los tres mínimos"
+      },
+      {
+        "tag": "li",
+        "text": "Cobertura médica de al menos 30.000 EUR."
+      },
+      {
+        "tag": "li",
+        "text": "Repatriación sanitaria y repatriación de restos incluidas."
+      },
+      {
+        "tag": "li",
+        "text": "Validez en todo el espacio Schengen, no solo en el país de destino, y por todos los días de la estadía solicitada."
+      },
+      {
+        "tag": "h2",
+        "text": "Lo que sí vale pagar de más"
+      },
+      {
+        "tag": "li",
+        "text": "Cancelación de viaje. Si te niegan la visa o se cae el plan, recuperas tiquetes y hoteles. Cuesta poco frente a lo que protege."
+      },
+      {
+        "tag": "li",
+        "text": "Cobertura de equipaje demorado. Las conexiones europeas pierden maletas con una frecuencia que sorprende."
+      },
+      {
+        "tag": "h2",
+        "text": "Lo que no"
+      },
+      {
+        "tag": "p",
+        "text": "Los planes con coberturas de USD 500.000 para un viaje de 12 días a Madrid. El costo médico real de un evento en Europa rara vez toca ese techo, y la prima sí lo siente."
+      },
+      {
+        "tag": "p",
+        "text": "Emitimos el certificado en el formato que pide el consulado, en español e inglés, el mismo día."
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://images.unsplash.com/photo-1530469525856-cf37954301f7?auto=format&fit=crop&q=80&w=1800"
+      },
+      {
+        "alt": "Pasaporte a contraluz frente a la ventanilla de un avión",
+        "src": "https://images.unsplash.com/photo-1530469525856-cf37954301f7?auto=format&fit=crop&q=80&w=1400"
+      },
+      {
+        "alt": "Padres jugando con su hijo sobre la cama",
+        "src": "https://images.unsplash.com/photo-1713942590368-09cfc6ae94ce?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "alt": "Automóviles circulando por una avenida",
+        "src": "https://images.unsplash.com/photo-1415594445260-63e18261587e?auto=format&fit=crop&q=80&w=600"
+      }
+    ]
+  }
+]
